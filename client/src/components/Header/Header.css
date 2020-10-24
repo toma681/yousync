@@ -1,0 +1,15 @@
+.headerContainer {
+  text-align: center;
+  background-color: #0C0C0C;
+  height: 150px;
+}
+
+.header {
+  margin-top: 50px;
+  cursor: pointer;
+  transition: all .1s ease-in-out;
+}
+
+.header:hover {
+  transform: scale(1.1);
+}

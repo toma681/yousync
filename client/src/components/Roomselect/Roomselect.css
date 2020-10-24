@@ -1,0 +1,25 @@
+.roomSelectContainer {
+   margin-left: auto;
+   margin-right: auto;
+   min-width: 50%;
+   max-width: 50%;
+}
+
+.browseRoomsH1 {
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+.roomChoiceOuterDiv {
+  border-radius: 9px;
+  height: 147px;
+  cursor: pointer;
+  background-color: grey;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 80px;
+}
+
+.roomNumberH1 {
+  margin-left: 5px;
+}

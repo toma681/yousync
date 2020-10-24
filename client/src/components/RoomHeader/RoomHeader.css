@@ -1,0 +1,15 @@
+.roomHeaderContainer {
+  background-color: #0C0C0C;
+  height: 50px;
+}
+
+.roomHeader {
+  margin-left: 50px;
+  margin-top: 5px;
+  cursor: pointer;
+  transition: all .1s ease-in-out;
+}
+
+.roomHeader:hover {
+  transform: scale(1.02);
+}

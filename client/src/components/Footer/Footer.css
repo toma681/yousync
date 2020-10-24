@@ -1,0 +1,12 @@
+.footerContainer {
+  background-color: black;
+  height: 130px;
+}
+
+.footerText {
+  margin-top: 20px;
+}
+
+.footerP {
+  color: white;
+}

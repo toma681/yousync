@@ -1,0 +1,59 @@
+.roomContainer {
+  overflow-x: hidden;
+}
+
+.inputVideoURL {
+  background-color: #262626;
+  position: relative;
+  top: -45px;
+  left: 500px;
+  width: 550px;
+}
+
+.videoTitle {
+  margin-left: 50px;
+  margin-bottom: 15px;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.messageOuterDiv {
+  margin-left: 50px;
+  margin-top: 12px;
+  height: 568px;
+}
+
+.scrollDiv {
+  height: 100%;
+  overflow-y: scroll;
+  overflow-wrap: break-word;
+}
+
+.messageItem {
+  font-family: "Montserrat";
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.joinLeaveMessage {
+  color: #696969;
+  font-weight: 400;
+}
+
+.sendMessageField {
+  border-radius: 5;
+  background-color: #262626;
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #191919;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #454545;
+}
